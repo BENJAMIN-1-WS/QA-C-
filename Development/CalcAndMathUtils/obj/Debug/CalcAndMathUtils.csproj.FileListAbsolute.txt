@@ -1,0 +1,7 @@
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\bin\Debug\CalcAndMathUtils.exe.config
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\bin\Debug\CalcAndMathUtils.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\bin\Debug\CalcAndMathUtils.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\obj\Debug\CalcAndMathUtils.csprojAssemblyReference.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\obj\Debug\CalcAndMathUtils.csproj.CoreCompileInputs.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\obj\Debug\CalcAndMathUtils.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils\obj\Debug\CalcAndMathUtils.pdb

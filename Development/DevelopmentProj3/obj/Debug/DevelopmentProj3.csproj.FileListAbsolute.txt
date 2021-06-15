@@ -1,0 +1,7 @@
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\bin\Debug\DevelopmentProj3.exe.config
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\bin\Debug\DevelopmentProj3.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\bin\Debug\DevelopmentProj3.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\obj\Debug\DevelopmentProj3.csproj.CoreCompileInputs.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\obj\Debug\DevelopmentProj3.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\obj\Debug\DevelopmentProj3.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj3\obj\Debug\DevelopmentProj3.csprojAssemblyReference.cache

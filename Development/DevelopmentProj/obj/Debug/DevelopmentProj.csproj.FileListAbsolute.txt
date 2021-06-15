@@ -1,0 +1,14 @@
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.exe.config
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.exe
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.pdb
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.csprojAssemblyReference.cache
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.csproj.CoreCompileInputs.cache
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.exe
+D:\_WorkingDirectory\C#\Automation Course\_AutomationClasses\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.exe.config
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\bin\Debug\DevelopmentProj.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.csproj.CoreCompileInputs.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\DevelopmentProj\obj\Debug\DevelopmentProj.csprojAssemblyReference.cache

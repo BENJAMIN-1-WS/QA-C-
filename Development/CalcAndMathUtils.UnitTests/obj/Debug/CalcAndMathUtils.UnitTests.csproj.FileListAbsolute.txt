@@ -1,0 +1,17 @@
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\CalcAndMathUtils.UnitTests.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\CalcAndMathUtils.UnitTests.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\CalcAndMathUtils.exe
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\CalcAndMathUtils.pdb
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\CalcAndMathUtils.exe.config
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\obj\Debug\CalcAndMathUtils.UnitTests.csprojAssemblyReference.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\obj\Debug\CalcAndMathUtils.UnitTests.csproj.CoreCompileInputs.cache
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\obj\Debug\CalcAndMathUtils.UnitTests.csproj.CopyComplete
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\obj\Debug\CalcAndMathUtils.UnitTests.dll
+D:\_WorkingDirectory\C#\AutomationCourse\_Classes\TelHai\_CodeInClass\1\CalcAndMathUtils.UnitTests\obj\Debug\CalcAndMathUtils.UnitTests.pdb
